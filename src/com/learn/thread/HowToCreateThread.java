@@ -5,7 +5,7 @@ import java.util.concurrent.*;
 /**
  * 描述：
  *
- * @author 刘背背[liubeibei@ele-cloud.com]
+ * @author lbb-1011
  * @date 2020/08/05 10:21 PM
  * @since JDK 1.8
  */
