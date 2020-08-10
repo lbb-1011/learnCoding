@@ -11,6 +11,14 @@ import java.util.concurrent.*;
  */
 public class HowToCreateThread {
     static class MyThread extends Thread {
+        //可以自定义线程名称
+        MyThread(String name) {
+            super(name);
+        }
+
+        MyThread() {
+        }
+
         @Override
         public void run() {
             for (int i = 0; i < 10; i++) {
