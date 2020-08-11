@@ -7,7 +7,7 @@ package com.learn.thread;
  * @date 2020/08/10 10:46 PM
  * @since JDK 1.8
  */
-public class ThreadState {
+public class L03_ThreadState {
     public static void main(String[] args) {
 
         Thread t1 = new Thread(() -> {

@@ -9,7 +9,7 @@ import java.util.concurrent.*;
  * @date 2020/08/05 10:21 PM
  * @since JDK 1.8
  */
-public class HowToCreateThread {
+public class L01_HowToCreateThread {
     static class MyThread extends Thread {
         //可以自定义线程名称
         MyThread(String name) {

@@ -2,7 +2,7 @@ package com.learn.thread;
 
 import java.util.concurrent.locks.LockSupport;
 
-public class Sleep_Yield_Join {
+public class L02_Sleep_Yield_Join {
     public static void main(String[] args) {
 //        testSleep();
 //        testYield();
